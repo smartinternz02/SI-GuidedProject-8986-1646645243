@@ -1,5 +1,3 @@
-# SI-GuidedProject-8986-1646645243
-Predicting The Energy Output Of Wind Turbine Based On Weather Condition <br>Link to project demonstration video: https://youtu.be/ICfu49Ud2HU
 # Predicting-The-Energy-Output-Of-Wind-Turbine-Based-On-Weather-Condition
 Predicting The Energy Output Of Wind Turbine Based On Weather Condition using Machine Learning
 <br>
@@ -26,15 +24,15 @@ also efficiency is increased.
 Our aim is to map weather data to energy production. We wish to show that even
 data that is publicly available for weather stations close to wind farms can be used
 to give a good prediction of the energy output. Furthermore, we examine the impact
-of different weather conditions on the energy output of technique to predict the
-energy output of wind farms. We are building an  to predict the energy output of wind turbine and weather condition of a city
+of different weather conditions on the energy output of techniques to predict the
+energy output of wind farms. We are building web app  to predict the energy output of wind turbine and weather condition of a city
 
 <br>
 <br>
 
 
 
-## There are main 4 setps in creating the web-app: <br>
+## There are 4 main  steps in creating the web-app: <br>
  Step 1 - Data Preprocessing 	<br>
  Step 2 - Building Models <br>
  Step 3 - UI Integration 	<br>
@@ -64,6 +62,8 @@ energy output of wind farms. We are building an  to predict the energy output of
  
  ### Contributing 
  Create a New issue for dissusing the feature you want to add
+
+
 
 
 
